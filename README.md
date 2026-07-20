@@ -1,1 +1,0 @@
-# presentacion-Azure-Stream-Analytics
